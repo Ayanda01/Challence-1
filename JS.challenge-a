@@ -1,0 +1,7 @@
+/* This is the firstname of the user */
+const user = 'Ayanda'
+/* This is the lastname of the user */
+const surname = 'Nyandeni'
+console.log(user,surname);
+
+
